@@ -87,5 +87,6 @@ runs:
     IMAGE_CACHE_CONTROL: ${{ inputs.imageCacheControl }}
     OTHER_CACHE_CONTROL: ${{ inputs.otherCacheControl }}
     PDF_CACHE_CONTROL: ${{ inputs.pdfCacheControl }}
+    PREFIX: ${{ inputs.prefix }}
 
     
